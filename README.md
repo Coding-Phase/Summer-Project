@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Thakur</h1>
 <h3 align="center">This is my frontend Summer Project 😊 Online food odering/ delivery page.</h3>
 
-- 👨‍💻 Portfolio: [https://coding-phase.github.io/vishalportfolio.github.io/](https://coding-phase.github.io/vishalportfolio.github.io/)
+- 👨‍💻 Portfolio: [https://coding-phase.github.io/vishal.github.io/](https://coding-phase.github.io/vishal.github.io/)
 
 - 📫 How to reach me **vishal.codingphase@gmail.com**
 
